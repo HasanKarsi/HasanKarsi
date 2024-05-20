@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hasan
+- 📚 i'm computer engineering student.
+- 🌱 I’m C#/SQL learning...
+- 👨🏼‍💻 I like to improve myself.
+- 😄 Traveling is my interest.
