@@ -17,3 +17,4 @@
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanKarsi&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HasanKarsi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
