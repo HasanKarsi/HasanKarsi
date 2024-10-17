@@ -16,5 +16,6 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanKarsi&layout=compact&theme=radical)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hsnkrs.exe/)](https://www.instagram.com/hsnkrs.exe/)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=HasanKarsi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
