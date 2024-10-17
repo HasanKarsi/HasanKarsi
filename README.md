@@ -10,7 +10,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/hsnkrs.exe/) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/link)](https://www.linkedin.com/in/hasan-karşı-97312a2a2/)
 
-
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=HasanKarsi&show_icons=true&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
