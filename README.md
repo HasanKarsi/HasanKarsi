@@ -9,15 +9,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/link)](https://www.linkedin.com/in/hasan-karşı-97312a2a2/)
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kullanici-adiniz&show_icons=true&theme=radical" width="400px"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=kullanici-adiniz&theme=dark" width="400px"/>
-    </td>
-  </tr>
-</table>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ![Github stats 2](https://github-readme-stats.vercel.app/api?username=HasanKarsi&show_icons=true&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=HasanKarsi&show_icons=true&theme=radical)
