@@ -9,7 +9,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/link)](https://www.linkedin.com/in/hasan-karşı-97312a2a2/)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HasanKarsi&theme=react-dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HasanKarsi&theme=dark)](https://git.io/streak-stats)
+
 
 
 ### VEriler
