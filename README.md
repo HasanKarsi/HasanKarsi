@@ -3,7 +3,7 @@
 # Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I’m Hasan
 ## Software engineer
 ### 
-🇹🇷  I'm based in Turkiye
+🇹🇷  I'm based in Turkiye 
 📚 i'm computer engineering student.
 
 
