@@ -1,10 +1,10 @@
 ![atatürk](https://github.com/user-attachments/assets/430973eb-b152-48b7-954e-4aa017079130)
 
 # Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I’m Hasan
-## 📚 i'm computer engineering student.
-### 🇹🇷  I'm based in Turkiye
-💻  See my portfolio at kaanksc.com
-✉️  You can contact me at me@kaanksc.com
+## Software engineer
+### 
+🇹🇷  I'm based in Turkiye
+📚 i'm computer engineering student.
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/HasanKarsi?tab=projects) 
