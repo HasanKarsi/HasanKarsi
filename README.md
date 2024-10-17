@@ -16,6 +16,7 @@
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hsnkrs.exe/)](https://www.instagram.com/hsnkrs.exe/)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HasanKarsi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
