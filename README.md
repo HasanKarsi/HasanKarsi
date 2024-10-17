@@ -9,11 +9,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/link)](https://www.linkedin.com/in/hasan-karşı-97312a2a2/)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HasanKarsi&theme=dark)](https://git.io/streak-stats)
 
-
-
-### VEriler
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=HasanKarsi&show_icons=true&theme=radical)
 
@@ -21,6 +17,3 @@
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HasanKarsi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
