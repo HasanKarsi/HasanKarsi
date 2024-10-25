@@ -1,7 +1,7 @@
 ![atatürk](https://github.com/user-attachments/assets/430973eb-b152-48b7-954e-4aa017079130)
 
 # Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I’m Hasan
-## Software engineer
+## Computer engineer
 🇹🇷  I'm based in Turkiye 
 📚 i'm computer engineering student.
 
