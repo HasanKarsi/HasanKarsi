@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsnkrs.exe) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/link)]([https://www.linkedin.com/in/hasan-karşı-97312a2a2/](https://www.linkedin.com/in/hasan-karsi-97312a2a2/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsnkrs.exe) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/link)]([https://www.linkedin.com/in/hasan-karşı-97312a2a2/]([https://www.linkedin.com/in/hasan-karsi-97312a2a2/)](https://www.linkedin.com/in/hasan-karsi-97312a2a2/))
 
 
 # 💻 Tech Stack:
