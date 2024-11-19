@@ -1,7 +1,6 @@
 ![atatürk](https://github.com/user-attachments/assets/430973eb-b152-48b7-954e-4aa017079130)
 
-# ![image](https://github.com/user-attachments/assets/cfb0bfc7-2620-4655-89a5-ef550f3d2b19)
- About Me:
+# 👤 About Me:
 🇹🇷 I'm based in Turkiye <br>📚 i'm computer engineering student.
 
 
